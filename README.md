@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fpypi&psig=AOvVaw3Tz4c_xKT1Xckuv1skatFs&ust=1648993046455000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNj3sO2_9fYCFQAAAAAdAAAAABAD" alt="pypi">-->
+<!--<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fpypi&psig=AOvVaw3Tz4c_xKT1Xckuv1skatFs&ust=1648993046455000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNj3sO2_9fYCFQAAAAAdAAAAABAD" alt="pypi">-->
 
 > Estrutura para pacotes python e futuro deploy no PyPI.
 
@@ -35,7 +35,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para instalar o projeto:
 
 ```
-$ git clone 
+$ git clone https://github.com/jmreis/python-packages.git 
 ```
 <!--
 Windows:
