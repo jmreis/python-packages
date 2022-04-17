@@ -4,9 +4,9 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/jmreis/python-packages?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/jmreis/python-packages?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/jmreis/python-packages?style=for-the-badge)
+<!--![GitHub forks](https://img.shields.io/github/forks/jmreis/python-packages?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jmreis/python-packages?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jmreis/python-packages?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jmreis/python-packages?style=for-the-badge)-->
 
 <!--<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fpypi&psig=AOvVaw3Tz4c_xKT1Xckuv1skatFs&ust=1648993046455000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNj3sO2_9fYCFQAAAAAdAAAAABAD" alt="pypi">-->
 
